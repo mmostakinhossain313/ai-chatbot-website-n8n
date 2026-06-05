@@ -72,7 +72,7 @@ Try the chatbot here:
 
 ## Workflow Screenshot
 
-![AI Chatbot Workflow](screenshots/ai-chatbot-website.png)
+![AI Chatbot Workflow](Screenshot/ai-chatbot-website.png)
 ---
 
 ## Flow Diagram
